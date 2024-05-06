@@ -1,3 +1,6 @@
+// PUTU DEWI ANDRIANI // 
+// NPM : 2215061033 //
+
 peta = { 
     'A': set (['B']),
     'B': set (['C','D']), 
